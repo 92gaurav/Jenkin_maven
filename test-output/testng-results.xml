@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-02T17:41:47 IST" name="Default suite" finished-at="2026-05-02T17:41:51 IST" duration-ms="4154">
+    <groups>
+    </groups>
+    <test started-at="2026-05-02T17:41:47 IST" name="Default test" finished-at="2026-05-02T17:41:51 IST" duration-ms="4154">
+      <class name="Actual_Test.MyShopping">
+        <test-method signature="startshop()[pri:0, instance:Actual_Test.MyShopping@1bb5a082]" started-at="2026-05-02T17:41:47 IST" name="startshop" finished-at="2026-05-02T17:41:51 IST" duration-ms="4100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startshop -->
+      </class> <!-- Actual_Test.MyShopping -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
